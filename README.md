@@ -1,2 +1,3 @@
 # hello-world
 a practice repository to learn git and GitHub
+Just making some changes so can test how merging branches and other things work....
